@@ -29,11 +29,13 @@ As the industry of automotive vehicles growing rapidly, the ability of those veh
             
 ## Proposed method
 -------------
+![Network architecture](/Netwrok.png)
 
 
 ## Results
 --------------
-  
+![Example of outputs](/visualizations.png)
+
 ## Installation:
 ------------
 Start by cloning this repositiory:
