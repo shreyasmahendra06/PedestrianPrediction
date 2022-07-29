@@ -1,3 +1,5 @@
+This project is a replication of Pedestrian Intention Prediction: A Multi-task Perspective (https://github.com/ShreyasM06/bounding-box-prediction/tree/master/2D
+)
 # Pedestrian intention Prediction : A Smart way to analyse Pedestrian Perspective
 
 
