@@ -29,7 +29,7 @@ As the industry of automotive vehicles growing rapidly, the ability of those veh
             
 ## Proposed method
 -------------
-![Network architecture](/Network.png)
+![Network architecture](/Net.png)
 
 
 ## Results
