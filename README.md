@@ -34,7 +34,7 @@ As the industry of automotive vehicles growing rapidly, the ability of those veh
 
 ## Results
 --------------
-![Example of outputs](/visualizations.png)
+![Example of outputs](/Results.png)
 
 ## Installation:
 ------------
